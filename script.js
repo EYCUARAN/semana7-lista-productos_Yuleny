@@ -4,7 +4,7 @@ let products = [
         id: 1,
         name: "Mochila ",
         price: 15.50,
-        description: "Potente laptop para gaming con procesador Intel i7 y tarjeta gráfica RTX 3060."
+        description: "Mochila de color azul grando con cargadores."
     }
 ];
 
